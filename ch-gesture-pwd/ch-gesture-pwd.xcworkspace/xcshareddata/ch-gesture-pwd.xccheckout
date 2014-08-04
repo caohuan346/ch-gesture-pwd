@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>64A49E67-308C-419C-B0F9-52F9AB01BA9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ch-gesture-pwd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1396D96F-49F2-49F4-90D2-13099FE246A2</key>
+		<string>https://github.com/caohuan346/ch-gesture-pwd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ch-gesture-pwd/ch-gesture-pwd.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1396D96F-49F2-49F4-90D2-13099FE246A2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/caohuan346/ch-gesture-pwd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1396D96F-49F2-49F4-90D2-13099FE246A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1396D96F-49F2-49F4-90D2-13099FE246A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ch-gesture-pwd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
